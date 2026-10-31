@@ -2,7 +2,7 @@
 
 BI specialist die business en data verbindt. Ik vertaal informatiebehoeften naar datamodellen en Power BI-dashboards waarop managers beslissingen nemen.
 
-**Werk ik mee:** Power BI (DAX, RLS) · Microsoft Fabric · dbt · SQL · Azure Data Factory · Git · Python
+**Werk ik mee:** Power BI (Mcode, DAX, RLS) · Microsoft Fabric · dbt · SQL · Azure Data Factory · Git · Azure Entra · DevOps
 
 ### Portfolio
 
